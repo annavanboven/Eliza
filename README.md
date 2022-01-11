@@ -1,0 +1,2 @@
+# Eliza
+The Eliza program takes in a 100 character input from the user. Eliza creates a personalized response to sentences matching one of the following four sentence patterns: "I am __", "my __ me", "you __ me", and "am I __". For other sentences, Eliza provides a general response: "in what way?" This program simulates a conversation between the user and the computer, allowing the conversation to continue until the user decides to leave by pressing enter.
